@@ -1,4 +1,4 @@
-## 페루 동전 던지기 - 암화화 프로토콜 (Cryptographic protocols) {#cryptograpy}
+## 페루 동전 던지기 - 암화화 프로토콜 (Cryptographic protocols) {#cryptograpy-chapter}
 
 > #### 개요   {.getready}
 > 

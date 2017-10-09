@@ -19,12 +19,16 @@ description: "This is a minimal example of using the bookdown package to write a
 > **정보 불평등(Digital Divide)**을 **기회(Opportunites)**로 만드는 계기가 대한민국 누구에게나 **공평(Fair)**하게 주여져야 합니다.
 > - [xwMOOC](http://www.xwmooc.net) -
  
+<img src="img/00_cover_boy_girl.png" width="100%" />
 
-정보 불평등(Digital Divide)을 기회로 전환하는 컴퓨터 소프트웨어 교육 [xwMOOC](http://www.xwmooc.net/) 프로젝트 중의 일환이며, 일부 G-창업 프로젝트 [경기중소기업종합지원센터](http://www.egbiz.or.kr/) 지원을 받았습니다. 
+역자가 2014년 소프트웨어 코딩 교육에 대해 관심을 갖고 있던 시점 시작했던 컴퓨터과학 언플러그드 한국어 번역이 2018년 정보과목 교과서가 [학국학력평가원 자료실](http://www.iexit.net/bbs/board.php?bo_table=table62&wr_id=9&sst=wr_hit&sod=asc&sop=and&page=1)을 통해 공개되었고, 
+2016년 이세돌 9단을 가볍게 격파한 알파고 쇼크로 인공지능에 대한 관심이 높아지면서 급변하는 세상을 마주하고 있다.
 
-컴퓨터 과학 언플러그드는 [Computer Science Unplugged](http://csunplugged.org/) 책에 기반하고 있으며, 한국적인 상황을 최대한 반영하여 내용 및 삽화를 일부 수정하였습니다. 또한, 컴퓨터 과학 언플러그드 공유 및 협업을 위해 [GitHub](https://github.com/statkclee/website-csunplugged)에 그동안 작업결과가 정리되어 있다. 특히, [소프트웨어 카펜트리(Software Carpentry)](http://software-carpentry.org/) 템플릿을 사용한 것이 도움이 많이 되었다.
+컴퓨터 과학 언플러그드는 [Computer Science Unplugged](http://csunplugged.org/) 책에 기반하고 있으며, 한국적인 상황을 최대한 반영하여 내용 및 삽화를 일부 수정하였습니다. 또한, 컴퓨터 과학 언플러그드 공유 및 협업을 위해 [GitHub](https://github.com/statkclee/website-csunplugged)에 그동안 작업결과가 정리되어 있다. 특히, [소프트웨어 카펜트리(Software Carpentry)](http://software-carpentry.org/) 템플릿을 사용한 것이 도움이 많이 되었다. 정보 불평등(Digital Divide)을 기회로 전환하는 컴퓨터 소프트웨어 교육 [xwMOOC](https://statkclee.github.io/xwMOOC/) 프로젝트 중의 일환이며, 일부 G-창업 프로젝트 [경기중소기업종합지원센터](http://www.egbiz.or.kr/) 지원을 받았습니다. 
 
-한국어 번역 및 삽화 작업에 도움을 주신 분들은 다음과 같다.
+하지만, 딥러닝 인공지능의 급격한 발전속에 1990년 시작된 컴퓨터 과학 언플로그드 프로젝트는 새로운 전환점을 맞고 있다. [CS Unplugged 2.0](http://cs-unplugged.appspot.com/en-gb/) 일부를 공개하면서 새로운 시대를 준비하고 있다. xwMOOC도 이에 맞춰 새로운 터전을 중심으로 새롭게 시작하고자 합니다.
+
+초기 한국어 번역 및 삽화 작업에 도움을 주신 분들은 다음과 같다.
 
 > #### 한국어 프로젝트 참여자 및 원저작자 정보
 > 

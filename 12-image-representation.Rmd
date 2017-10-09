@@ -21,7 +21,7 @@
 > -- 워크시트 활동: 자신만의 사진 만들기 
 
 
-### 언플러그드 활동 동영상
+### 언플러그드 활동 동영상 {#image-avi}
 | 한글 동영상 | 영어 동영상 |
 :---------------------------------: | :-------------:|
 | 애타게 찾고 있습니다. | <iframe width="350" height="260" src="https://www.youtube.com/embed/uaV2RuAJTjQ" ameborder="0" allowfullscreen> </iframe> |
