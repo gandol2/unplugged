@@ -1,4 +1,4 @@
-# 점의 개수를 세다 {#data-structure}
+# 제 1 부 {#data-structure}
 
 **정보를 나타내는 원재료 &mdash; 데이터**
 
